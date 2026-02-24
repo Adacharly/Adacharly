@@ -77,14 +77,20 @@ Business Analyst skilled at translating complex technical needs into clear busin
 
 ## Education
 - Master of Business Administration (International Businesss)
-- Louisiana State University at Shreveport
-- Shreveport, Louisiana
-- 🎓 Graduated: December 2023
+
+  Louisiana State University at Shreveport
+  
+  Shreveport, Louisiana
+  
+  🎓 Graduated: December 2023
 
 - Bsc. Chemical Egineering (Honors)
-- North Carolina Agricultural and Technical State University
-- Greensboro, North Carolina
-- 🎓 Graduated: May 2018
+
+  North Carolina Agricultural and Technical State University
+
+  Greensboro, North Carolina
+
+  🎓 Graduated: May 2018
 
   ---
 
