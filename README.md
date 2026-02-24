@@ -73,5 +73,25 @@ Business Analyst skilled at translating complex technical needs into clear busin
 - Visio / Lucidchart  
 - PowerPoint  
 
+---
 
+## Education
+- Master of Business Administration (International Businesss)
+  Louisiana State University at Shreveport
+  Shreveport, Louisiana
+  Graduated: December 2023
 
+- Bsc. Chemical Egineering (Honors)
+  North Carolina Agricultural and Technical State University
+  Greensboro, North Carolina
+  Graduated: May 2018
+
+  ---
+
+  ## Certifications
+  - Tablea Data Analyst
+  - Lean Six Sigma Green Belt
+  - Certified Scrum Product Owner
+  - Professional Scrum Master
+    
+    
