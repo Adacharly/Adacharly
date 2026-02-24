@@ -96,7 +96,7 @@ Business Analyst skilled at translating complex technical needs into clear busin
   ---
 
 ## Certifications
-  - Tablea Data Analyst
+  - Tableau Data Analyst
   - Lean Six Sigma Green Belt
   - Certified Scrum Product Owner
   - Professional Scrum Master
