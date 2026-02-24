@@ -83,6 +83,7 @@ Business Analyst skilled at translating complex technical needs into clear busin
   Shreveport, Louisiana
   
   🎓 Graduated: December 2023
+  
 
 - Bsc. Chemical Egineering (Honors)
 
