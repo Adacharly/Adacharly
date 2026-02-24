@@ -2,7 +2,7 @@
 
 Business Analyst skilled at translating complex technical needs into clear business outcomes. Experienced in Agile methodologies, including Scrum and Kanban, to drive iterative delivery and improve team performance. Proficient with data analysis tools such as SQL, Power BI, and Excel to generate insights, validate requirements, and support data-driven decision-making. Adept at leading and coordinating User Acceptance Testing (UAT) to ensure solutions meet business needs and deliver high-quality user experiences. Skilled at bridging the gap between development, operations, and stakeholders to streamline processes, enhance automation strategies, and support scalable, reliable solutions. Recognized for a collaborative mindset, analytical approach, and the ability to deliver value in fast-paced, cross-functional environments.
 
-# Professional Skill Set — Business Analyst
+# Professional Skill Set 
 
 ## Business Analysis & Strategy
 - Requirements Elicitation & Documentation  
